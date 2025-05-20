@@ -32,7 +32,7 @@ It provides real-time access to liquidity pool data for a given token on a suppo
 ## 🚀 API Deployment
 
 The API is deployed and publicly accessible here:  
-**🔗 [`https://bubblemaps-api-xxxxx.a.run.app/docs`](https://bubblemaps-api-xxxxx.a.run.app/docs)**
+**🔗 [`https://bubblemaps-api-504093958383.europe-west1.run.app/`](https://bubblemaps-api-504093958383.europe-west1.run.app/)**
 
 ---
 
